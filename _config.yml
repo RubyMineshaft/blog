@@ -6,7 +6,7 @@ email: mattetress@me.com
 copyright_name: Matt Etress
 description: > # this means to ignore newlines until "baseurl:"
   My Path to Full Stack Development
-baseurl: "blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username:
 github_username:  mattetress
 url: mattetress.github.io
